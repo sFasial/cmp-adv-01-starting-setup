@@ -1,0 +1,9 @@
+PRACTICE ASSIGNMENT 2 
+
+YOU CAN REFER TO IT AS IT CONTAINS SLOTS PROPS AND EVENTS ( MANAGE GOALS , ACTIVE GOALS , ERROR ALERT COMPONENTS , Dialog Box is error alert component)
+
+
+If you select Manage Goals 
+and try to submit the page without filling data you will get an error Input is invalid this is CUSTOM ERROR PAGE ERROR ALERT COMPONENTS 
+
+We have also use keep alive component for keeping Content of input boxes live as we switch components
